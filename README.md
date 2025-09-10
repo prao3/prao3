@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm Prem! I'm a recent graduate of Case Western Reserve University, with a Master of Science in Physics. I'm interested in climate physics and understanding how anthropogenic climate change will impact human life in the future. My most recent project focused on understanding the meridional structure of the tropopause, and is in the process of publication!
+I'm Prem! I am a PhD student in the  Atmospheric and Oceanic Sciences Department at the University of Wisconsin-Madison. I am interested in interannual tropical variability and how we expect tropical variability to change in a warming climate. I am using the Coupled Model Intercomparison Project phase 6 (CMIP6) models, which represent the cutting edge of climate models, to investigate how the El-Niño/Southern Oscillation (ENSO) is projected to change. Through the application of Linear Inverse Modeling (LIM), we can get a handle on how ENSO dynamics are changing and provide a better understanding of what the future holds.
 
 ----------------
 
-Check out my contributions to [Logan](https://github.com/Logan-PO/logan), a personal organizer for students!
-
-You can also check out my personal website [here](https://prao3.github.io/).
+Take a look at my [website](https://prao3.github.io/)!
 
 <!--
 **prao3/prao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
